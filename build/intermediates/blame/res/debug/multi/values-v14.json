@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 718
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\values-v14\\values-v14.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 718
+                    }
+                }
+            }
+        ]
+    }
+]

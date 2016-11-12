@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_survey.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_activity_survey.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_full.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_activity_notification_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_full.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_activity_notification_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_question_card.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_question_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_first_choice_answer.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_first_choice_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_last_choice_answer.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_last_choice_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_first_choice_answer.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_first_choice_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_middle_choice_answer.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_middle_choice_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_mini.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_activity_notification_mini.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_last_choice_answer.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_last_choice_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_mini.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_activity_notification_mini.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_middle_choice_answer.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_middle_choice_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_question_card.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_question_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_survey.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\layout\\com_mixpanel_android_activity_survey.xml"
+    }
+]

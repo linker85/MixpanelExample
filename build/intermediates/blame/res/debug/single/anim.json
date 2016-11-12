@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_out.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\anim\\com_mixpanel_android_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_slide_down.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\anim\\com_mixpanel_android_slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_in.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\anim\\com_mixpanel_android_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_out.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\anim\\com_mixpanel_android_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_fade_in.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\anim\\com_mixpanel_android_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\anim\\com_mixpanel_android_slide_down.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\anim\\com_mixpanel_android_slide_down.xml"
+    }
+]

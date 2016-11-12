@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.9.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b91d39a93dfeda20d847dcbcc9d597605dc2114d">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\com.mixpanel.android-mixpanel-android-4.9.2_47ed6336fef58f78119693f9d873e7e536b3315f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_6f2676922873dc6a17cbc758954195fe011f77b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5dba6571d0d0b39099c0342aeda96173316ce6aa">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\instant-run_7d53ff1ef34d62951d217e627d7261171e488433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_0b11c4aff4236bf9443977f37af89e0efa50b5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.3.0_e376ed6612f4529aaf6e546e512117a80bd59930.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_af264d532d2ea280baafee5890a640bdb1c145b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.3.0_84fef6d2b0a90a6ae9438149ad017d37933dd80c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b25e28f4168a51e4d07374e77c96fd0d992a903a">
+        <dex dex="C:\Users\linke_000\Desktop\sample-android-mixpanel-integration-master\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2b526b5c18ee9bd770343be86107045d189a31ab.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_middle_states.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_middle_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_insets.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowright_insets.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_states.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowleft_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_states.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowright_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_cta_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_checkmark_states.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_checkmark_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_first_states.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_first_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_text_answer_border.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_text_answer_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_nocolor_list.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_nocolor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_nocolor_list.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_nocolor_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_mini_inapp_rounded.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_mini_inapp_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_last_states.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_last_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_states.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowleft_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_mini_inapp_rounded.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_mini_inapp_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_text_answer_border.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_text_answer_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_checkmark_states.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_checkmark_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button_highlight.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_cta_button_highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_states.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowright_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_insets.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowleft_insets.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowright_insets.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowright_insets.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button_highlight.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_cta_button_highlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_last_states.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_last_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_middle_states.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_middle_states.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_arrowleft_insets.xml",
+        "source": "C:\\Users\\linke_000\\Desktop\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_arrowleft_insets.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_cta_button.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_cta_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\res\\merged\\debug\\drawable\\com_mixpanel_android_choice_first_states.xml",
+        "source": "C:\\Users\\linke_000\\AndroidStudioProjects\\w4D5\\sample-android-mixpanel-integration-master\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.9.2\\res\\drawable\\com_mixpanel_android_choice_first_states.xml"
+    }
+]
